@@ -21,12 +21,13 @@ A command line application that allows a user to generate a README after answeri
 
 - The use of this command line application is to generate a README for the user after they have answered some question regarding what they would like included.
 
-![image](https://github.com/mleblanc94/weather-dashboard/assets/60248680/5730db9a-a397-4ac5-ac52-bf770cce2f3a)
-![image](https://github.com/mleblanc94/weather-dashboard/assets/60248680/cb57e110-5515-497b-ab65-9d2d80d8295d)
+![image](https://github.com/mleblanc94/readme-creator-inquirer/assets/60248680/e83631d5-6c71-4149-8eb1-9b36e82840dc)
+![image](https://github.com/mleblanc94/readme-creator-inquirer/assets/60248680/c914b2d7-c204-47c5-af06-fd835846c4fd)
+![image](https://github.com/mleblanc94/readme-creator-inquirer/assets/60248680/1a192f8a-5913-42a1-b2b9-cf8fa4dd0ff4)
 
-- When the user enters the application, they are first asked what city or town they would like to see the weather for.
-- When a user enters any information into the inputs, they can click submit and see what the weather is for the next few days for this location.
-- The user will also have a section on the side that shows them the previous places they had entered and they can click and revisit this.
+- When the user starts the application using node index.js, they are then prompted with a series of questions.
+- When a user enters information in about the title of the prokect, a description for the README, installation instructions for the README, usage information for the README, contribution guidelines for the README, test instructions for the README, what license the project is using, and a github username and email to be included in the README.
+- The user will then be returned a README file that includes all the information that they provided.
 
 ## Credits
 
