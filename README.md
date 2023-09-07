@@ -25,6 +25,9 @@ A command line application that allows a user to generate a README after answeri
 ![image](https://github.com/mleblanc94/readme-creator-inquirer/assets/60248680/c914b2d7-c204-47c5-af06-fd835846c4fd)
 ![image](https://github.com/mleblanc94/readme-creator-inquirer/assets/60248680/1a192f8a-5913-42a1-b2b9-cf8fa4dd0ff4)
 
+video walkthrough of the project:
+https://drive.google.com/file/d/1lBDy5w2wdRt62MwCFibFmIN0emgj8ery/view?pli=1
+
 - When the user starts the application using node index.js, they are then prompted with a series of questions.
 - When a user enters information in about the title of the prokect, a description for the README, installation instructions for the README, usage information for the README, contribution guidelines for the README, test instructions for the README, what license the project is using, and a github username and email to be included in the README.
 - The user will then be returned a README file that includes all the information that they provided.
